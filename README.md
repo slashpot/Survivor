@@ -9,8 +9,8 @@ Press the '0''1''2' keys on the top of the alphanumeric keyboard or use scroll w
 ```
 ## Features
 * Survivor has three kinds of weapon,use handgun and AK47 to kill zombie can earn 100 points, use knife can earn 200 points because it's dangerous.
-* If zombie heard gunshot, it would run to the location where gunshot fired.
-* Zombie would drop ammo randomly after it's killed.
+* If zombie hear gunshot, it will run to the location where gunshot fired.
+* Zombie will drop ammo randomly after it's killed.
 * Zombies are generated from exits of house randomly.
 
 ## Credits
