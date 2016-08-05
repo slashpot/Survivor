@@ -1,6 +1,8 @@
 # Survivor
 It's a top-down shooting game about a survivor who trying to defend himself while hundreds of zombies coming to his house.The only thing he can do is to kill as many zombies as he can.
 ## Manual
+Simply download and unzip.Because AI is written with RAIN AI, make sure you import [RAIN AI package](https://www.assetstore.unity3d.com/en/#!/content/23569)
+## Controls
 ```
 WASD to control movement
 Left mouse button to shoot
