@@ -164,7 +164,22 @@ public class PlayerController : MonoBehaviour {
 		Turn ();
 	}
 
+	public class Weapon {
+		public int bullets;
+		public int clip;
+		public int rate;
+		public float reloadTime;
+		public AudioSource sound;
 
+		public Weapon(int _bullets, int _clip, int _rate, float _reloadTime, AudioSource _sound){
+			bullets = _bullets;
+			clip = _clip;
+			rate = _rate;
+			reloadTime = _reloadTime;
+			sound = _sound;
+		}
+	}
+		
 	void Move(float v,float h){
 		movement.Set (h, 0f, v);
 		rb.velocity = movement*speed;
