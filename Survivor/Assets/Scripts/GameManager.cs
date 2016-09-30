@@ -35,10 +35,11 @@ public class GameManager : MonoBehaviour {
 		if (timer >= shoutrate) {
 			randomsound();
 		}
-
+		/*
 		if(player.dead == true){
 			gameover ();
 		}
+		*/
 	}
 
 	void gameover(){
