@@ -5,6 +5,8 @@ Simply download and unzip. Because zombie AI is written with RAIN AI, make sure 
 
 **Behavior Tree may not be loaded to zombie AI. If it happens please reload behavior Tree of RoamerZombie -> AI in Prefabs.**
 
+![alt tag](https://github.com/slashpot/Survivor/blob/master/behavior%20tree.PNG)
+
 If you encounter **Invalid editor window UnityEditor.FallbackEditorWindow** error, reset the window factory settings inside the Unity editor which is available in the right top corner where you set your layout.
 ## Player controls
 ```
